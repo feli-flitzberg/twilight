@@ -1,0 +1,2 @@
+<a href="index.htm">Home</a> - add "../" for each level deep, return home link
+<link rel="stylesheet" href="stylesheet.css" /> - add "../" for each level deep, site stylesheet
