@@ -1,6 +1,7 @@
 body {
     background-color: darkslategray;
     color: white;
+    font-size: 24pt;
 }
 
 h1 {
@@ -9,4 +10,20 @@ h1 {
 
 h2 {
     text-align: center;
+}
+
+a:link {
+    color: whitesmoke;
+}
+
+a:visited {
+    color: brown;
+}
+
+a:hover {
+    color: cadetblue;
+}
+
+a:active {
+    color: aquamarine;
 }
