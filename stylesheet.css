@@ -2,6 +2,7 @@ body {
     background-color: darkslategray;
     color: white;
     font-size: 24pt;
+    margin: 120px;
 }
 
 h1 {
@@ -12,18 +13,6 @@ h2 {
     text-align: center;
 }
 
-a:link {
-    color: whitesmoke;
-}
-
-a:visited {
-    color: brown;
-}
-
-a:hover {
-    color: cadetblue;
-}
-
-a:active {
-    color: aquamarine;
+a {
+    color: beige;
 }
