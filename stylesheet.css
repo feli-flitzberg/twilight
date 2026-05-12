@@ -2,19 +2,23 @@ body {
     background-color: darkslategray;
     color: white;
     font-size: 24pt;
+    font-family: 'Courier New', Courier, monospace;
     margin: 120px;
 }
 
 h1 {
     text-align: center;
+    font-family: cursive;
 }
 
 h2 {
     text-align: center;
+    font-family: cursive;
 }
 
 h3 {
     text-align: center;
+    font-family: cursive;
 }
 
 a {
